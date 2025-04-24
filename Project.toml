@@ -1,0 +1,4 @@
+name = "Bwp2"
+uuid = "bcc0940a-042a-450c-921e-273c0581fecd"
+authors = ["tduretz <duretz@uni-frankfurt.de>"]
+version = "0.1.0"
